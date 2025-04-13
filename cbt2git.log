@@ -1,0 +1,33 @@
+2025-04-13 13:26:07.901338 - Received CBT.V508.FILE1029.PDS from FILE1029.XMI 
+2025-04-13 13:26:07.902629 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1029.PDS, moved to PDS/$$$#DATE
+2025-04-13 13:26:07.902708 - Found $$README.txt (text/plain) in CBT.V508.FILE1029.PDS, moved to PDS/$$README
+2025-04-13 13:26:07.902769 - Found $README.txt (text/plain) in CBT.V508.FILE1029.PDS, moved to PDS/$README
+2025-04-13 13:26:07.902830 - Found @FIL1029.txt (text/plain) in CBT.V508.FILE1029.PDS, moved to PDS/@FIL1029
+2025-04-13 13:26:07.902893 - Found DATATST.txt (text/plain) in CBT.V508.FILE1029.PDS, moved to PDS/DATATST
+2025-04-13 13:26:07.902956 - Found DATAXXX.txt (text/plain) in CBT.V508.FILE1029.PDS, moved to PDS/DATAXXX
+2025-04-13 13:26:07.903022 - Found EXEC.xmi (application/xmit) in CBT.V508.FILE1029.PDS, moved to PDS/EXEC.xmi
+2025-04-13 13:26:07.951138 - Received SYSP.RXP.EXEC from EXEC.xmi 
+2025-04-13 13:26:07.951927 - Found $$README.txt (text/plain) in SYSP.RXP.EXEC, moved to EXEC/$$README
+2025-04-13 13:26:07.951995 - Found DATATST.txt (text/plain) in SYSP.RXP.EXEC, moved to EXEC/DATATST
+2025-04-13 13:26:07.952057 - Found DATAXXX.txt (text/plain) in SYSP.RXP.EXEC, moved to EXEC/DATAXXX
+2025-04-13 13:26:07.952118 - Found RXDEBUGP.txt (text/plain) in SYSP.RXP.EXEC, moved to EXEC/RXDEBUGP
+2025-04-13 13:26:07.952179 - Found RXPSAMP1.rexx (text/plain) in SYSP.RXP.EXEC, moved to EXEC/RXPSAMP1
+2025-04-13 13:26:07.952238 - Found RXPSAMP2.rexx (text/plain) in SYSP.RXP.EXEC, moved to EXEC/RXPSAMP2
+2025-04-13 13:26:07.952300 - Found RXPSAMP3.rexx (text/plain) in SYSP.RXP.EXEC, moved to EXEC/RXPSAMP3
+2025-04-13 13:26:07.952375 - Found RXPSAMP4.rexx (text/plain) in SYSP.RXP.EXEC, moved to EXEC/RXPSAMP4
+2025-04-13 13:26:07.952443 - Found RXPSAMP5.rexx (text/plain) in SYSP.RXP.EXEC, moved to EXEC/RXPSAMP5
+2025-04-13 13:26:07.952502 - Found RXPSAMP6.rexx (text/plain) in SYSP.RXP.EXEC, moved to EXEC/RXPSAMP6
+2025-04-13 13:26:07.952559 - Found RXPSAMP7.rexx (text/plain) in SYSP.RXP.EXEC, moved to EXEC/RXPSAMP7
+2025-04-13 13:26:07.953322 - Found LOAD.xmi (application/xmit) in CBT.V508.FILE1029.PDS, moved to PDS/LOAD.xmi
+2025-04-13 13:26:08.049356 - Received SYSP.RXP.LOAD from LOAD.xmi 
+2025-04-13 13:26:08.049907 - Found IGYCASM1.bin (application/octet-stream) in SYSP.RXP.LOAD, moved to LOAD/IGYCASM1
+2025-04-13 13:26:08.049978 - Found REXXDUMP.bin (application/octet-stream) in SYSP.RXP.LOAD, moved to LOAD/REXXDUMP
+2025-04-13 13:26:08.050431 - Found RXP.bin (application/octet-stream) in SYSP.RXP.LOAD, moved to LOAD/RXP
+2025-04-13 13:26:08.050754 - Found RXDEBUGP.txt (text/plain) in CBT.V508.FILE1029.PDS, moved to PDS/RXDEBUGP
+2025-04-13 13:26:08.050819 - Found RXPSAMP1.rexx (text/plain) in CBT.V508.FILE1029.PDS, moved to PDS/RXPSAMP1
+2025-04-13 13:26:08.050876 - Found RXPSAMP2.rexx (text/plain) in CBT.V508.FILE1029.PDS, moved to PDS/RXPSAMP2
+2025-04-13 13:26:08.050931 - Found RXPSAMP3.rexx (text/plain) in CBT.V508.FILE1029.PDS, moved to PDS/RXPSAMP3
+2025-04-13 13:26:08.050987 - Found RXPSAMP4.rexx (text/plain) in CBT.V508.FILE1029.PDS, moved to PDS/RXPSAMP4
+2025-04-13 13:26:08.051042 - Found RXPSAMP5.rexx (text/plain) in CBT.V508.FILE1029.PDS, moved to PDS/RXPSAMP5
+2025-04-13 13:26:08.051097 - Found RXPSAMP6.rexx (text/plain) in CBT.V508.FILE1029.PDS, moved to PDS/RXPSAMP6
+2025-04-13 13:26:08.051152 - Found RXPSAMP7.rexx (text/plain) in CBT.V508.FILE1029.PDS, moved to PDS/RXPSAMP7
